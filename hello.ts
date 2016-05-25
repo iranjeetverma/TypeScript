@@ -10,5 +10,5 @@ class HelloWorld {
     }
 }
 
-let msg = new HelloWorld('Ranjeet')
+let msg = new HelloWorld('Ranjeet Verma')
 msg.getMessage()
