@@ -2,7 +2,7 @@
  * Description
  */
 class Description {
-    constructor(public name:string ,age:number) {
+    constructor(public name:string ,public age:number) {
         
     }
     Getdescription(){
@@ -11,4 +11,4 @@ class Description {
     }
 }
 let about = new Description("ranjeet" , 28)
-console.log(about);
+about.Getdescription()
