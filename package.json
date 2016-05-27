@@ -7,8 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git"  
+    "type": "git"
   },
   "author": "ranjeet",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
 }
